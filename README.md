@@ -1,2 +1,3 @@
-# astar_maze_solver
-Use the A* search algorithm to solve 2D mazes.
+# A* Maze Solver
+
+No documentation is provided; I've commented my code very extensively so I believe it is self-contained.
