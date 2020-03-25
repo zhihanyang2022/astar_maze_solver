@@ -1,3 +1,3 @@
 # A* Maze Solver
 
-No documentation is provided; I've commented my code very extensively so I believe it is self-contained.
+No documentation is provided; I've commented my code very extensively so I believe it is self-contained. See `astar_search_demo.ipynb`.
